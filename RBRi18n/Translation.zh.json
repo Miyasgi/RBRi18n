@@ -1114,6 +1114,8 @@
     "Car Part": "车辆部件",
     "Windshield": "挡风玻璃",
     "Bodywork": "车身",
+    "Right Door Lock": "右车门锁",
+    "Left Door Lock": "左车门锁",
     "Right Door": "右车门",
     "Left Door": "左车门",
     "    Fixing:  Right Door": "    修理：右车门",
@@ -1150,6 +1152,13 @@
     "power stage": "加分赛段",
     "Only pacenote audio": "仅路书语音",
 
+    "Steer carefully": "谨慎转向",
+    "Be gentle with the steering - if you": "转向要轻柔——如果你",
+    "steer wildly from one side to another": "频繁大幅左右打方向",
+    "to try and keep your car straight, the": "试图让车辆保持直线行驶，",
+    "pendulum effect will make your car": "摆动效应会让车辆",
+    "spin round and may cause a major": "发生旋转，甚至可能导致严重",
+    "accident.": "事故。",
 
 
     "Be careful at high speed": "高速行驶时要格外小心，",
