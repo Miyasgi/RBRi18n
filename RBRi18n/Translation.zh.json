@@ -1144,6 +1144,8 @@
     "Lost": "缺失",
     "You haven't repaired your car, do you want to repair it?": "你还没有修理你的车，你想修理吗？",
     "All repairs finished!": "所有修理已完成！",
+    "All repairs finished. You were given a penalty of 20 seconds because you": "所有修理已完成。由于你",
+    "repaired longer than the allowed time limit.": "修理时间超过了允许的时间限制，你被罚了20秒。",
     "[ NO ]": "否",
     "[ YES ]": "是",
     "Skill Level": "技术水平",
